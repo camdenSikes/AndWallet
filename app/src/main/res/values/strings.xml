@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Descriptor</string>
+    <string name="amount">Amount</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="no_name">Enter a descriptor</string>
+    <string name="no_amount">Enter an amount</string>
+    <string name="balance">Balance: $</string>
+</resources>
